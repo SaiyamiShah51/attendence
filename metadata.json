@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Curricular Activities & Attendance",
+  "description": "A comprehensive web application for managing student attendance and curricular activities. Features role-based dashboards for admins, teachers, and students, with QR code attendance, GPS tracking, and AI-powered quiz generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
